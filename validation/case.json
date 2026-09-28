@@ -1,0 +1,12 @@
+{
+  "repo": "google-research/lasertagger",
+  "base_branch": "master",
+  "base": "0bfa546e755814b28163dad039ab6d9f53f82bb8",
+  "issue_url": "https://github.com/google-research/lasertagger/issues/48",
+  "issue": 48,
+  "branch": "fix/label-map-blank-lines-20260928",
+  "title": "Validate blank lines before later tags in text label maps",
+  "source": "utils.py",
+  "test": "label_map_test.py",
+  "head": "b8d61e08531ec2d44f06076a0767996aa97d252e"
+}
